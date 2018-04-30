@@ -1,0 +1,28 @@
+{
+  "name": "tdd-code-from-scratch",
+  "version": "1.0.0",
+  "main": "check-hand-with-mocha.js",
+  "dependencies": {
+    "deep-equal": "^1.0.1",
+    "eslint": "^4.19.1",
+    "wish": "^1.0.1"
+  },
+  "devDependencies": {
+    "eslint-config-google": "^0.9.1",
+    "mocha": "^5.1.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitzanf/tdd-code-from-scratch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nitzanf/tdd-code-from-scratch/issues"
+  },
+  "homepage": "https://github.com/nitzanf/tdd-code-from-scratch#readme",
+  "description": ""
+}
